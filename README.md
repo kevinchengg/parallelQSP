@@ -1,3 +1,3 @@
 # parallelQSP
-Code for Parallel QSP. Given input polynomial and number of threads, factorizes input polynomial in accordance to the paper found at:
-** PAPER LINK **
+Code for Parallel QSP. 
+Given a target polynomial and number of threads, this code decomposes and factorizes the polynomial in accordance with the Parallel QSP algorithm put forth in the paper: https://arxiv.org/abs/2409.19043. 
